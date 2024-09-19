@@ -1,2 +1,2 @@
-# xmmx_keysgame
+# [XMMX] Keys Minigame
 Keys Minigame Version Checker
